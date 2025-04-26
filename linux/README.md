@@ -1,4 +1,4 @@
-
+so
 # Bandit - OverTheWire Walkthrough
 
 This repository documents my progress through the [Bandit](https://overthewire.org/wargames/bandit/) wargame on OverTheWire.  
